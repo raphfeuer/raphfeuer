@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bits3D
-- 👀 I’m interested in game dev
-- 🌱 I’m currently learning C++ and Unreal Engine
+- 👀 I’m developing Quanta in SwiftUI
+- 🌱 I’m currently learning iOS dev
 - 📫 How to reach me raphfeuerdev@gmail.com
 
 <!---
