@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raphfeuer
-- 👀 I’m developing Quanta in SwiftUI
+- 👀 I’m developing an AI news app in SwiftUI
 - 🌱 I’m currently learning iOS dev
 - 📫 How to reach me raphfeuerdev@gmail.com
 
