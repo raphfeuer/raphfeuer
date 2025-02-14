@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bits3D
+- 👋 Hi, I’m @raphfeuer
 - 👀 I’m developing Quanta in SwiftUI
 - 🌱 I’m currently learning iOS dev
 - 📫 How to reach me raphfeuerdev@gmail.com
