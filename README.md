@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @raphfeuer<br>🔥 IB student and future mechanical engineer<br>👀 I’m developing an AI news app in SwiftUI<br>🌱 I’m currently learning iOS dev
+👋 Hi, I’m @raphfeuer<br>🔥 McGill student<br>👀 I’m developing an AI workout app in SwiftUI<br>
 
 
 ## 🌐 Socials:
